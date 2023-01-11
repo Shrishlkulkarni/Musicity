@@ -1,4 +1,5 @@
 -------------------------------------------MUSICITY-----------------------------------------
+
 An online music streaming mobile application developed using Java and XML.
 The softwares used are Android Studios and Real-time database of Firebase for storage of songs.
 
